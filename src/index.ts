@@ -5,10 +5,10 @@ interface Color {
 
 }
 
-const color: Color = {
+const color2: Color = {
     red: 255,
     green: 255,
     blue: 200
 }
 
-console.log(color)
+console.log(color2)
