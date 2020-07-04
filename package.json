@@ -1,11 +1,11 @@
 {
   "name": "@rvticketing/common",
-  "version": "1.0.14",
+  "version": "1.0.12",
   "description": "",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "files": [
-    "./build"
+    "./build/**/*"
   ],
   "scripts": {
     "clean": "del ./build/*",
